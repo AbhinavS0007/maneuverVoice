@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Avino",
+    "company": "sales start up",
+    "role": null,
+    "problem": null,
+    "tried_before": null,
+    "timeline": null,
+    "budget": null,
+    "timestamp": "2026-05-20T17:17:00.313653"
+  },
+  {
+    "name": "Avino",
+    "company": "software as a service startup",
+    "role": "founder",
+    "problem": "not getting clients",
+    "tried_before": "running ads",
+    "timeline": "as soon as possible",
+    "budget": "unknown",
+    "timestamp": "2026-05-20T17:20:33.259928"
+  },
+  {
+    "name": null,
+    "company": "Melanam Avenue",
+    "role": "owner/founder of an agricultural company",
+    "problem": null,
+    "tried_before": null,
+    "timeline": null,
+    "budget": null,
+    "timestamp": "2026-05-20T18:02:24.375374"
+  }
+]
